@@ -6,6 +6,9 @@
   - [Vulnerability Management Lab -
 OpenVAS](https://github.com/victorromero10/VulnerabilityManagementLabOpenVAS)
 
+- <b>SEIM</b>
+  - [SEIM Setup & Honeypot Lab -
+Azure Sentinel](https://github.com/victorromero10/SEIMLabAzureSentinel)
 
 <h2>📺 YouTube Videos</h2>
 
