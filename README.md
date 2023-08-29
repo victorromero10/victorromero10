@@ -14,6 +14,14 @@ Azure Sentinel](https://github.com/victorromero10/SEIMLabAzureSentinel)
   - [Virtual Active Directory Setup Lab -
 Azure](https://github.com/victorromero10/ActiveDirectoryAzure)
 
+- <b>File Integrity Monitor Lab</b>
+  - [Virtual Active Directory Setup Lab -
+Azure](https://github.com/victorromero10/ActiveDirectoryAzure)
+
+- <b>Simple Rest API Build</b>
+  - [Virtual Active Directory Setup Lab -
+Azure](https://github.com/victorromero10/ActiveDirectoryAzure)
+
 <h2>📺 YouTube Videos</h2>
 
 - [YouTube](https://www.youtube.com/)
